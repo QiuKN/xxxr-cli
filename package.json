@@ -1,6 +1,6 @@
 {
   "name": "xxxr-cli",
-  "version": "1.0.4",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -14,8 +14,8 @@
     "lib"
   ],
   "author": {
-    "name": "T-Roc",
-    "email": "lxp_work@163.com"
+    "name": "QiuKN",
+    "email": "369603165@qq.com"
   },
   "keywords": [
     "xxxr-cli",
